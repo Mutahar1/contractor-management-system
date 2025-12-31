@@ -135,9 +135,9 @@ ContentDocumentLink (Documents)
 ## Related Projects
 
 Check out my other LWC solutions:
-- [Renewal Navigator](../custom-lwc-redesigning) - Advanced filtering dashboard
-- [Property Portal](../property-portal) - Experience Cloud with maps
-- [Email Threading](../email-threading-system) - Communication management
+- [Renewal Navigator](https://github.com/Mutahar1/custom-lwc-redesigning) - Advanced filtering dashboard
+- [Property Portal](https://github.com/Mutahar1/property-experience-portal) - Experience Cloud with maps
+- [Email Threading](https://github.com/Mutahar1/email-threading-system) - Communication management
 
 ---
 
